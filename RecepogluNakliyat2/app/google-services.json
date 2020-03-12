@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521887277617",
+    "firebase_url": "https://recepoglunakliyat.firebaseio.com",
+    "project_id": "recepoglunakliyat",
+    "storage_bucket": "recepoglunakliyat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521887277617:android:b3dd2be82a7073bec22b10",
+        "android_client_info": {
+          "package_name": "com.example.recepoglunakliyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521887277617-m7u1vgtidp3lh54heqree78c157mu09b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recepoglunakliyat",
+            "certificate_hash": "fdf57b5e82a23c91c4e1bbf88a39837fb7338687"
+          }
+        },
+        {
+          "client_id": "521887277617-r6h7c75hjmpr4b67v7k2f3fg4tlv774h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOQ2BVFmofzd7KYfFF9Kju8_99-voizE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521887277617-r6h7c75hjmpr4b67v7k2f3fg4tlv774h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

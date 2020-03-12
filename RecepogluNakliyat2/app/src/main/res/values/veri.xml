@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="firma">
+        <item>Lütfen Firma Seçiniz</item>
+        <item>NEMA</item>
+        <item>GAMEK</item>
+        <item>AKSU</item>
+    </string-array>
+</resources>
